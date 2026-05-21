@@ -14,7 +14,7 @@ You'll need **macOS** with **Xcode** installed (free from the App Store).
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/Fluphalicious/youtube-end-time.git
+git clone https://github.com/Fluphalicious/youtube-end-time-extension.git
 cd youtube-end-time
 ```
 
